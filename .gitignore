@@ -1,0 +1,42 @@
+# .NET / C#
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+*.pdb
+*.tmp
+*.bak
+*.swp
+
+# Visual Studio ja VS Code
+.vs/
+.vscode/
+
+# Projektifailid
+*.nupkg
+*.snupkg
+
+# Node.js (frontend)
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# Brauseri ehitusfailid
+node_modules/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-spetsiifiline
+.DS_Store
+Thumbs.db
+
+# config
+appsettings.json
