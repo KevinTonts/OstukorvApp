@@ -1,8 +1,0 @@
-[
-  { "name": "Puder", "pricePerPerson": 1.2, "mealType": "Breakfast" },
-  { "name": "Võileib", "pricePerPerson": 1.5, "mealType": "Breakfast" },
-  { "name": "Supp", "pricePerPerson": 2.5, "mealType": "Lunch" },
-  { "name": "Kana riisiga", "pricePerPerson": 3.2, "mealType": "Lunch" },
-  { "name": "Pasta", "pricePerPerson": 2.8, "mealType": "Dinner" },
-  { "name": "Salat", "pricePerPerson": 2.0, "mealType": "Dinner" }
-]
