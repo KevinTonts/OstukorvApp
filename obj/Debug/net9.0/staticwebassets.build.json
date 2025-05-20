@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "kv6L6W+tGPE6c+rLFvYTPYZCKAZzj080N2GjGei3ybk=",
+  "Source": "OstukorvApp",
+  "BasePath": "_content/OstukorvApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OstukorvApp\\wwwroot",
+      "Source": "OstukorvApp",
+      "ContentRoot": "E:\\OstukorvApp\\wwwroot\\",
+      "BasePath": "_content/OstukorvApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\OstukorvApp\\obj\\Debug\\net9.0\\compressed\\e42sq6o27k-tilk0i1sy7.gz",
+      "SourceId": "OstukorvApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\OstukorvApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OstukorvApp",
+      "RelativePath": "css/site#[.{fingerprint=tilk0i1sy7}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\OstukorvApp\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "23k2350smt",
+      "Integrity": "LulMH0Hpn8AgyNDnKqFIayTaBtDZtxUI8As11AF2f5M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\OstukorvApp\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\OstukorvApp\\wwwroot\\css\\site.css",
+      "SourceId": "OstukorvApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\OstukorvApp\\wwwroot\\",
+      "BasePath": "_content/OstukorvApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tilk0i1sy7",
+      "Integrity": "C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "E:\\OstukorvApp\\obj\\Debug\\net9.0\\compressed\\e42sq6o27k-tilk0i1sy7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005494505495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LulMH0Hpn8AgyNDnKqFIayTaBtDZtxUI8As11AF2f5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 11:41:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "E:\\OstukorvApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 11:41:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "E:\\OstukorvApp\\obj\\Debug\\net9.0\\compressed\\e42sq6o27k-tilk0i1sy7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LulMH0Hpn8AgyNDnKqFIayTaBtDZtxUI8As11AF2f5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 11:41:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LulMH0Hpn8AgyNDnKqFIayTaBtDZtxUI8As11AF2f5M="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.tilk0i1sy7.css",
+      "AssetFile": "E:\\OstukorvApp\\obj\\Debug\\net9.0\\compressed\\e42sq6o27k-tilk0i1sy7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005494505495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LulMH0Hpn8AgyNDnKqFIayTaBtDZtxUI8As11AF2f5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 11:41:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tilk0i1sy7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.tilk0i1sy7.css",
+      "AssetFile": "E:\\OstukorvApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 11:41:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tilk0i1sy7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C74lisWPxbzdZaxSaaRYwIrMaGSsgB04OTk99OJKbsM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.tilk0i1sy7.css.gz",
+      "AssetFile": "E:\\OstukorvApp\\obj\\Debug\\net9.0\\compressed\\e42sq6o27k-tilk0i1sy7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LulMH0Hpn8AgyNDnKqFIayTaBtDZtxUI8As11AF2f5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 11:41:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tilk0i1sy7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LulMH0Hpn8AgyNDnKqFIayTaBtDZtxUI8As11AF2f5M="
+        }
+      ]
+    }
+  ]
+}
